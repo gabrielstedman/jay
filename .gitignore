@@ -2,6 +2,7 @@
 !.gitignore
 !.gitmodules
 !/.cargo
+!/.copr
 !/.builds
 !/.github
 /target
